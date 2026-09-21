@@ -34,3 +34,7 @@ coverage/
 .vite/
 .turbo/
 *.tsbuildinfo
+
+# --- 本地运行产物 ---
+tts.db
+tts.db-*
